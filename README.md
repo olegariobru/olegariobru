@@ -4,7 +4,7 @@
 
 - 🔭 Estou a procura de uma oportunidade 🙏
 - 🌱 Estudando TypeScript
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olegariobru&hide_progress=true)
