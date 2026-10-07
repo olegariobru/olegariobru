@@ -20,7 +20,7 @@ Construo aplicações e ferramentas para organizar informações e simplificar p
 | --- | --- |
 | [AccessManager](https://github.com/olegariobru/AccessManager) | Gestão de usuários, estrutura organizacional e rotinas internas com React, Node.js, Prisma e PostgreSQL. |
 | [Portfólio React](https://github.com/olegariobru/MyPort2) | Apresentação dos meus projetos e experiência, com componentes React e CSS Modules. |
-| [NaEstica Barber](https://github.com/olegariobru/naesticabarber) | Site de barbearia com apresentação de serviços, localização e contato, desenvolvido com HTML, CSS e JavaScript. |
+| [ARKtetura](https://github.com/olegariobru/arqtetura) | Site de arquitetura desenvolvido com React, CSS Modules e integração com a API OpenWeatherMap. |
 | [RenameOS Desktop](https://github.com/olegariobru/renameOSnew) | Aplicação Python com interface gráfica para renomear e mover arquivos em lote. |
 | [Caçador de Duplicatas](https://github.com/olegariobru/pyCacador) | Ferramenta Python para localizar arquivos duplicados por conteúdo e exportar relatórios. |
 
