@@ -19,10 +19,10 @@ Construo aplicações e ferramentas para organizar informações e simplificar p
 | Projeto | Problema e implementação |
 | --- | --- |
 | [AccessManager](https://github.com/olegariobru/AccessManager) | Gestão de usuários, estrutura organizacional e rotinas internas com React, Node.js, Prisma e PostgreSQL. |
-| [Portfólio React](https://github.com/olegariobru/MyPort2) | Apresentação dos meus projetos e experiência, com componentes React e CSS Modules. |
 | [ARKtetura](https://github.com/olegariobru/arqtetura) | Site de arquitetura desenvolvido com React, CSS Modules e integração com a API OpenWeatherMap. |
 | [RenameOS Desktop](https://github.com/olegariobru/renameOSnew) | Aplicação Python com interface gráfica para renomear e mover arquivos em lote. |
 | [Caçador de Duplicatas](https://github.com/olegariobru/pyCacador) | Ferramenta Python para localizar arquivos duplicados por conteúdo e exportar relatórios. |
+| [Portfólio React](https://github.com/olegariobru/MyPort2) | Apresentação dos meus projetos e experiência, com componentes React e CSS Modules. |
 
 Os READMEs dos projetos apresentam o contexto, as tecnologias, as instruções de execução e as limitações de cada solução.
 
